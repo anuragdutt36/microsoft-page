@@ -1,2 +1,3 @@
 # microsoft-page
-It is Microsoft first web page. I used Tailwind Framework here and also it is responsive.
+This project is one of my best project ever because I clone Microsoft page, I really learned so many things.
+I used Tailwind Framework. 
