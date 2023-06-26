@@ -46,13 +46,13 @@ To start the website locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/microsoft-homepage-clone.git
+git clone https://github.com/AnuragDutt36/microsoft-page.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-cd microsoft-homepage-clone
+cd microsoft-page
 ```
 
 3. Install the required dependencies:
